@@ -2,7 +2,7 @@
 
 <h3 align="center">Engineer 🧑‍💻 </h3>
 
-I am a Cloud and DevOps Fresher ☁️. Passionate about Cloud and the services its provides in DevOps Community.
+I am a Cloud and DevOps enthusiast ☁️. Passionate about Cloud and the services its provides in DevOps Community.
 
 ---
 
